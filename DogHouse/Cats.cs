@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace DogHouse
 {
-    class Cats
+    class Cats: Info
     {
+        public Cats(string catName, int catAge, string catBreed)
+        {
+            Name = catName;
+            Age = catAge;
+            Breed = catBreed;
+        }
     }
 }

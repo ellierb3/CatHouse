@@ -14,21 +14,19 @@ namespace DogHouse
             dogs.Add(annabelle);
             dogs.Add(betty);
 
-            
+            List<Cats> cats = new List<Cats>();
+            cats.Add(new Cats("Barbie", 1, "White"));
+            cats.Add(new Cats("Buttercup", 3, "Siamese"));
+            cats.Add(new Cats("Charlie", 5, "Black"));
 
-            Console.WriteLine(annabelle.GoodWithKids());
-            Console.WriteLine(betty.GoodWithKids());
-            Console.ReadLine();
+            foreach (var cat in cats)
+            {
+                Console.WriteLine($"Name:{cat.Name} Age: {cat.Age} Breed: {cat.Breed}");
+            }
 
-            //foreach (Dogs availabledogs in Dogs)
-            //{
-                //Console.WriteLine();
-            //}
-
-           // List<Dogs> availabledogs = new List<Dogs>();
-           // availabledogs.Add(dog1);
-           // availabledogs.Add(dog2);
-
+            //Console.WriteLine(annabelle.GoodWithKids());
+            //Console.WriteLine(betty.GoodWithKids());
+            //Console.ReadLine();
             
 
         }

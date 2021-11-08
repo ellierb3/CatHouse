@@ -15,6 +15,7 @@ namespace DogHouse
             Breed = dogBreed;
         }
 
+
         public bool GoodWithKids()
         {
             if (Age <= 5)
