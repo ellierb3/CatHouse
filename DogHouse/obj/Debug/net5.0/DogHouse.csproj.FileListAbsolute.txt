@@ -1,0 +1,5 @@
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\DogHouse.csproj.AssemblyReference.cache
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\DogHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\DogHouse.AssemblyInfoInputs.cache
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\DogHouse.AssemblyInfo.cs
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\DogHouse.csproj.CoreCompileInputs.cache
