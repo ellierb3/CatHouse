@@ -8,6 +8,8 @@ namespace DogHouse
 {
     public class Info
     {
-    
+        public string Name;
+        public int Age;
+        public string Breed;
     }
 }
