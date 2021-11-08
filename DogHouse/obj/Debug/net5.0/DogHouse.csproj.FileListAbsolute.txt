@@ -3,3 +3,14 @@ C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\DogHous
 C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\DogHouse.AssemblyInfoInputs.cache
 C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\DogHouse.AssemblyInfo.cs
 C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\DogHouse.csproj.CoreCompileInputs.cache
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\bin\Debug\net5.0\DogHouse.exe
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\bin\Debug\net5.0\DogHouse.deps.json
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\bin\Debug\net5.0\DogHouse.runtimeconfig.json
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\bin\Debug\net5.0\DogHouse.runtimeconfig.dev.json
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\bin\Debug\net5.0\DogHouse.dll
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\bin\Debug\net5.0\ref\DogHouse.dll
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\bin\Debug\net5.0\DogHouse.pdb
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\DogHouse.dll
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\ref\DogHouse.dll
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\DogHouse.pdb
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\DogHouse.genruntimeconfig.cache

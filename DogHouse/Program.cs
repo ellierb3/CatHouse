@@ -1,23 +1,35 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Collections.Generic.List;
 
 namespace DogHouse
 {
     class Program
     {
         public static void Main(string[] args)
-        {
-            //Console.WriteLine("Hello World!")
-            Dogs dog1 = new Dogs("Annabelle", 2, "Golden");
-            Dogs dog2 = new Dogs("Betty", 7, "Chihuahua");
+        { 
+            Dogs annabelle = new Dogs("Annabelle", 2, "Golden");
+            Dogs betty = new Dogs("Betty", 7, "Chihuahua");
 
+            List<Dogs> dogs = new List<Dogs>();
+            dogs.Add(annabelle);
+            dogs.Add(betty);
 
-            List<Dogs> availabledogs = new List<Dogs>();
-            availabledogs.Add(dog1);
-            availabledogs.Add(dog2);
+            
 
-            Console.WriteLine(availabledogs);
+            Console.WriteLine(annabelle.GoodWithKids());
+            Console.WriteLine(betty.GoodWithKids());
+            Console.ReadLine();
+
+            //foreach (Dogs availabledogs in Dogs)
+            //{
+                //Console.WriteLine();
+            //}
+
+           // List<Dogs> availabledogs = new List<Dogs>();
+           // availabledogs.Add(dog1);
+           // availabledogs.Add(dog2);
+
+            
 
         }
     }
