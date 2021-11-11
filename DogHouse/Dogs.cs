@@ -4,16 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DogHouse
+namespace CatHouse
 {
-    public class Dogs : Info
+    public static class Dogs
     {
-        //public Dogs(string dogName, int dogAge, string dogBreed)
-        //{
-            //Name = dogName;
-            //Age = dogAge;
-            //Breed = dogBreed;
-        //} 
+       
         
     }
 }

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 
-namespace DogHouse
+namespace CatHouse
 {
     class Program
     {
@@ -12,7 +12,7 @@ namespace DogHouse
 
             
             //Dogs annabelle = new Dogs("Annabelle", 2, "Golden");
-            //Dogs betty = new Dogs("Betty", 7, "Chihuahua");
+            //Dogs betty = new Dogs("Betty", 7, "Chihuahua", 10-23-23 );
 
             //Console.WriteLine(betty.Age);
 
@@ -38,6 +38,7 @@ namespace DogHouse
             Console.WriteLine("1. Adoptable Dogs");
             Console.WriteLine("2. Adoptable Cats");
             Console.WriteLine("3. Quit");
+            Console.WriteLine("4. Quit");
             Console.WriteLine("Please select an option from above");
 
             string userselection;
@@ -55,8 +56,13 @@ namespace DogHouse
                     Console.ReadLine();
                     break;
                 case "3":
-                    
+                    Console.Clear();
                     DisplayList();
+                    Console.ReadLine();
+                    break;
+                case "4":
+                    Console.Clear();
+                    Cats.SortCats();
                     Console.ReadLine();
                     break;
             }
@@ -93,7 +99,6 @@ namespace DogHouse
             string match = Console.ReadLine();
             Console.WriteLine($"You would like your new best friend to be {match}?");
         }
-
        
     }
 }

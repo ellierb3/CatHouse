@@ -1,0 +1,16 @@
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\bin\Debug\net5.0\CatHouse.exe
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\bin\Debug\net5.0\CatHouse.deps.json
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\bin\Debug\net5.0\CatHouse.runtimeconfig.json
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\bin\Debug\net5.0\CatHouse.runtimeconfig.dev.json
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\bin\Debug\net5.0\CatHouse.dll
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\bin\Debug\net5.0\ref\CatHouse.dll
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\bin\Debug\net5.0\CatHouse.pdb
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\CatHouse.csproj.AssemblyReference.cache
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\CatHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\CatHouse.AssemblyInfoInputs.cache
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\CatHouse.AssemblyInfo.cs
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\CatHouse.csproj.CoreCompileInputs.cache
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\CatHouse.dll
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\ref\CatHouse.dll
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\CatHouse.pdb
+C:\Users\Tech Louisville\source\repos\DogHouse\DogHouse\obj\Debug\net5.0\CatHouse.genruntimeconfig.cache

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tech Louisville\\source\\repos\\DogHouse\\DogHouse\\DogHouse.csproj",
-      "projectName": "DogHouse",
-      "projectPath": "C:\\Users\\Tech Louisville\\source\\repos\\DogHouse\\DogHouse\\DogHouse.csproj",
+      "projectUniqueName": "C:\\Users\\Tech Louisville\\source\\repos\\DogHouse\\DogHouse\\CatHouse.csproj",
+      "projectName": "CatHouse",
+      "projectPath": "C:\\Users\\Tech Louisville\\source\\repos\\DogHouse\\DogHouse\\CatHouse.csproj",
       "packagesPath": "C:\\Users\\Tech Louisville\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Tech Louisville\\source\\repos\\DogHouse\\DogHouse\\obj\\",
       "projectStyle": "PackageReference",

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DogHouse
+namespace CatHouse
 {
     class Cats: Info
     {
@@ -24,6 +24,12 @@ namespace DogHouse
             return false;
         }
 
+        public static void SortCats()
+        {
+            Console.WriteLine("PLaceholderrr");
+        }
+
+       
         // public static void BlackCats()
         // {
         // string blackcats = Cats.
