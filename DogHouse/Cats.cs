@@ -14,5 +14,20 @@ namespace DogHouse
             Age = catAge;
             Breed = catBreed;
         }
+
+        public bool GoodWithKids()
+        {
+            if (Age <= 5)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        // public static void BlackCats()
+        // {
+        // string blackcats = Cats.
+        // Console.WriteLine($"There are {animals}");
+        // }
     }
 }
